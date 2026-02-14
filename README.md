@@ -27,6 +27,7 @@ Oled Display
 
 
 <img width="674" height="331" alt="image" src="https://github.com/user-attachments/assets/61667dec-ed2e-44f3-b714-5d207639cc1f" />
+<img width="672" height="350" alt="image" src="https://github.com/user-attachments/assets/1031be98-4da5-401a-8366-e873db9dae0d" />
 
 
 
