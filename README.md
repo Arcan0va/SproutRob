@@ -1,9 +1,11 @@
 # SproutRob
 ## THIS IS THE __ONLY OFFICIAL__ AND __REAL REPO__ AND ONLY AVAILABLE HERE !!!
-This in a custom software for the ESP32 wroom dev board only/
+This in a custom software for the ESP32 wroom dev board only, links are below.
 
 ## Required conponents :
-## - 0,96 Inches, 128x64 I2C 
+### - 0,96 Inches, 128x64 I2C
+### - Some wires
+### - 1 Big breadboard or 2 littles
 
 ## __Hardware :__ 
 ### 1. SCL needs to be bound to the 21 port on the ESP32
