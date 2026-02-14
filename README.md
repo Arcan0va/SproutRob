@@ -15,7 +15,7 @@ This in a custom software for the ESP32 wroom dev board only, links are below.
 3. VCC connected to the 3.3v port on the ESP32
 ### (You can put a capacitor for a better security between the GND and 3.3v connection ON THE SCREEN NOT THE ESP32 !!!!!!!)
 
-## __ Shops Links :__
+## __Shops Links :__
 
 ESP32
  https://amzn.eu/d/0dOQUDC1
