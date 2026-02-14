@@ -16,7 +16,7 @@ This in a custom software for the ESP32 wroom dev board only, links are below.
 ### (You can put a capacitor for a better security between the GND and 3.3v connection ON THE SCREEN NOT THE ESP32 !!!!!!!)
 
 ## __ Shops Links :__
-### https://amzn.eu/d/0dOQUDC1
+ https://amzn.eu/d/0dOQUDC1
 
 
 
