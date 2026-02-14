@@ -6,7 +6,7 @@ This in a custom software for the ESP32 wroom dev board only, links are below.
 ### - 0,96 Inches, 128x64 I2C
 ### - Some wires
 ### - 1 Big breadboard or 2 littles
-### - A capacitor (not obligatory)
+### - A capacitor (Optional)
 
 
 ## __Hardware :__ 
