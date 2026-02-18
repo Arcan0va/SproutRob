@@ -1,5 +1,5 @@
 # SproutRob
-[![Download](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge](https://github.com/Arcan0va/SproutRob/releases/tag/Realease)
+[![Download](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge)](https://github.com/Arcan0va/SproutRob/releases/tag/Realease)
 ## THIS IS THE __ONLY OFFICIAL__ AND __REAL REPO__ AND ONLY AVAILABLE HERE !!!
 This in a custom software for the ESP32 wroom dev board only, links are below.
 
