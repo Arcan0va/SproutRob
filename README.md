@@ -1,5 +1,6 @@
 # SproutRob
-[![Download](https://img.shields.io/badge/Download-realease-blue?style=for-the-badge)](https://github.com/Arcan0va/SproutRob/releases)
+[![Download](https://img.shields.io/badge/Download-realease-blue?style=for-the-badge)](https://github.com/Arcan0va/SproutRob/releases) ![Static Badge](https://img.shields.io/badge/Official-Website)
+
 ## THIS IS THE __ONLY OFFICIAL__ AND __REAL REPO__ AND ONLY AVAILABLE HERE !!!
 This in a custom software for the ESP32 wroom dev board only, links are below.
 
