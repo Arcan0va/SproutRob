@@ -1,7 +1,8 @@
 # SproutRob 
 [![Download](https://img.shields.io/badge/Download-realease-blue?style=for-the-badge)](https://github.com/Arcan0va/SproutRob/releases) [![Official Website](https://img.shields.io/badge/Official%20Website-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arcan0va.github.io/SproutRob-website/index.html) 
 ## THIS IS THE __ONLY OFFICIAL__ AND __REAL REPO__ AND ONLY AVAILABLE HERE !!! This in a custom software for the ESP32 wroom dev board only, links are below. ## __Required conponents__ : 
-### - 0,96 Inches, 128x64 I2C ### - Some wires 
+### - 0,96 Inches, 128x64 I2C 
+### - Some wires 
 ### - 1 Big breadboard or 2 littles 
 ### - A capacitor (Optional) 
 ## __Hardware :__ 1. SCL needs to be bound to the 21 port on the ESP32 
