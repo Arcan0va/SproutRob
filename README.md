@@ -1,5 +1,6 @@
 # SproutRob
-[![Download](https://img.shields.io/badge/Download-realease-blue?style=for-the-badge)](https://github.com/Arcan0va/SproutRob/releases) ![Static Badge](https://img.shields.io/badge/Official%20Website)
+[![Download](https://img.shields.io/badge/Download-realease-blue?style=for-the-badge)](https://github.com/Arcan0va/SproutRob/releases) [![Official Website](https://img.shields.io/badge/Official%20Website-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arcan0va.github.io/SproutRob-website/index.html)
+
 
 
 ## THIS IS THE __ONLY OFFICIAL__ AND __REAL REPO__ AND ONLY AVAILABLE HERE !!!
